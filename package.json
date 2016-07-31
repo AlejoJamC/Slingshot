@@ -1,0 +1,31 @@
+{
+  "name": "slingshot",
+  "version": "0.1.0",
+  "description": "Slingshot makes it easy send HTML templates using Mailgun API, It is designed as a RESTful web service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://AlejoJamC@github.com/AlejoJamC/slingshot.git"
+  },
+  "keywords": [
+    "Mailgun",
+    "API",
+    "REST",
+    "webservice",
+    "expressjs",
+    "nodejs",
+    "express",
+    "node",
+    "html",
+    "templates"
+  ],
+  "author": "Alejandro Mantilla <@AlejoJamC>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlejoJamC/slingshot/issues"
+  },
+  "homepage": "https://github.com/AlejoJamC/slingshot#readme"
+}
